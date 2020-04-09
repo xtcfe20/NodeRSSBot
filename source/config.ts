@@ -3,7 +3,7 @@ import { Config } from './types/config';
 import { version } from '../package.json';
 
 export const config: Config = {
-    token: process.env.RSSBOT_TOKEN || '',
+    token: process.env.1109729985:AAGxkQZThzv3xj0FX_vtQAw0nrT4d1V4uk4 || '',
     proxy: {
         protocol: process.env.PROXY_PROTOCOL || null,
         host: process.env.PROXY_HOST || null,
